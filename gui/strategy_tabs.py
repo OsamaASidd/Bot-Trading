@@ -78,14 +78,14 @@ Parameters:
 Higher period and multiplier values make the indicator less sensitive, reducing false signals
 but potentially entering trends later.
 """
-    explanation = tk.Label(
-        supertrend_frame, 
-        text=explanation_text, 
-        justify=tk.LEFT, 
-        wraplength=500, 
-        bg="#f0f0f0"
-    )
-    explanation.pack(fill=tk.X, padx=10, pady=10)
+    # explanation = tk.Label(
+    #     supertrend_frame, 
+    #     text=explanation_text, 
+    #     justify=tk.LEFT, 
+    #     wraplength=500, 
+    #     bg="#f0f0f0"
+    # )
+    # explanation.pack(fill=tk.X, padx=10, pady=10)
     
     return supertrend_frame, variables
 
@@ -160,14 +160,14 @@ The classic configuration is the 50/200 day moving average crossover, which is w
 followed by institutional investors. Shorter periods (like 9/50) generate more signals
 but can include more false positives.
 """
-    explanation = tk.Label(
-        gc_frame, 
-        text=explanation_text, 
-        justify=tk.LEFT, 
-        wraplength=500, 
-        bg="#f0f0f0"
-    )
-    explanation.pack(fill=tk.X, padx=10, pady=10)
+    # explanation = tk.Label(
+    #     gc_frame, 
+    #     text=explanation_text, 
+    #     justify=tk.LEFT, 
+    #     wraplength=500, 
+    #     bg="#f0f0f0"
+    # )
+    # explanation.pack(fill=tk.X, padx=10, pady=10)
     
     return gc_frame, variables
 
@@ -243,14 +243,14 @@ Parameters:
 Bollinger Bands are effective in ranging markets and for identifying potential reversals.
 The strategy can be combined with volume indicators for more reliability.
 """
-    explanation = tk.Label(
-        bb_frame, 
-        text=explanation_text, 
-        justify=tk.LEFT, 
-        wraplength=500, 
-        bg="#f0f0f0"
-    )
-    explanation.pack(fill=tk.X, padx=10, pady=10)
+    # explanation = tk.Label(
+    #     bb_frame, 
+    #     text=explanation_text, 
+    #     justify=tk.LEFT, 
+    #     wraplength=500, 
+    #     bg="#f0f0f0"
+    # )
+    # explanation.pack(fill=tk.X, padx=10, pady=10)
     
     return bb_frame, variables
 
@@ -313,13 +313,13 @@ Parameters:
 This strategy works well for mean reversion trading when extreme funding rates indicate
 potential market imbalances and imminent reversals.
 """
-    explanation = tk.Label(
-        fr_frame, 
-        text=explanation_text, 
-        justify=tk.LEFT, 
-        wraplength=500, 
-        bg="#f0f0f0"
-    )
-    explanation.pack(fill=tk.X, padx=10, pady=10)
+    # explanation = tk.Label(
+    #     fr_frame, 
+    #     text=explanation_text, 
+    #     justify=tk.LEFT, 
+    #     wraplength=500, 
+    #     bg="#f0f0f0"
+    # )
+    # explanation.pack(fill=tk.X, padx=10, pady=10)
     
     return fr_frame, variables

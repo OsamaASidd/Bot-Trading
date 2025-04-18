@@ -107,7 +107,8 @@ class TradingBotGUI:
         )
         self.timeframe_combo = ttk.Combobox(
             self.settings_frame, 
-            values=["1m", "5m", "15m", "30m", "1h", "4h", "1d"]
+            values=["1m", "3m", "5m", "15m", "30m", "1h", "2h", "4h", "1d"]
+
         )
         self.timeframe_combo.current(3)  # Default to 30m
         self.timeframe_combo.grid(row=1, column=1, sticky=tk.W, padx=5, pady=5)
@@ -150,9 +151,9 @@ class TradingBotGUI:
         self.charts_frame = tk.LabelFrame(self.root, text="Chart Analysis")
         self.charts_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=5)
         
-        # Create a figure with subplots for each strategy
-        self.fig, self.axs = plt.subplots(2, 2, figsize=(10, 8))
-        self.axs = self.axs.flatten()
+        # Create a figure with only 1 subplot
+        self.fig, ax = plt.subplots(figsize=(7, 4))  # Smaller size
+        self.axs = [ax]
         
         # Configure the subplots
         for ax in self.axs:

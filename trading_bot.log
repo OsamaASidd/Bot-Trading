@@ -1,3 +1,216 @@
 2025-04-18 18:31:09,409 - __main__ - INFO - Exchange connection initialized
 2025-04-18 18:31:09,409 - __main__ - INFO - Trading strategies initialized
 2025-04-18 18:31:09,776 - __main__ - INFO - Starting application
+2025-04-18 18:39:09,103 - __main__ - INFO - Exchange connection initialized
+2025-04-18 18:39:09,104 - __main__ - INFO - Trading strategies initialized
+2025-04-18 18:39:09,443 - __main__ - INFO - Starting application
+2025-04-18 19:16:59,297 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:16:59,298 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:16:59,926 - __main__ - INFO - Starting application with enhanced signal visualization
+2025-04-18 19:22:15,871 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:22:15,874 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:22:16,464 - __main__ - INFO - Starting application with enhanced signal visualization
+2025-04-18 19:29:19,925 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:29:19,926 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:29:20,635 - __main__ - INFO - Starting application with enhanced signal visualization
+2025-04-18 19:30:42,496 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:30:42,497 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:30:42,779 - __main__ - INFO - Starting application
+2025-04-18 19:33:22,969 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:33:22,970 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:33:23,011 - __main__ - INFO - Starting application
+2025-04-18 19:33:34,626 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:33:37,331 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:33:47,335 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:33:47,869 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:33:57,872 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:33:58,407 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:34:08,409 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:34:08,945 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:34:40,364 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:34:40,364 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:34:40,609 - __main__ - INFO - Starting application
+2025-04-18 19:36:30,967 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:36:30,967 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:36:31,239 - __main__ - INFO - Starting application
+2025-04-18 19:38:00,757 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:38:00,758 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:38:01,012 - __main__ - INFO - Starting application
+2025-04-18 19:40:08,609 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:40:08,609 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:40:08,802 - __main__ - INFO - Starting application
+2025-04-18 19:40:13,702 - core.trading_bot - INFO - Fetching data for BTC/USDT on 5m timeframe
+2025-04-18 19:40:16,114 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:40:16,117 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:40:16,120 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:40:16,123 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:40:28,084 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:40:28,586 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:41:28,662 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:41:28,852 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:42:29,188 - core.trading_bot - INFO - Fetching data for BTC/USDT on 10s timeframe
+2025-04-18 19:42:29,378 - core.trading_bot - ERROR - Error fetching data: binance {"code":-1120,"msg":"Invalid interval."}
+2025-04-18 19:42:57,179 - __main__ - INFO - Exchange connection initialized
+2025-04-18 19:42:57,179 - __main__ - INFO - Trading strategies initialized
+2025-04-18 19:42:57,395 - __main__ - INFO - Starting application
+2025-04-18 19:43:06,170 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:43:08,308 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:43:08,310 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:43:08,313 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:43:08,314 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:44:08,442 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:44:08,748 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:44:08,767 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:44:08,784 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:44:08,792 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:45:09,467 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:45:09,674 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:45:09,677 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:45:09,680 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: sell
+2025-04-18 19:45:09,681 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:46:09,806 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:46:10,162 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:46:10,165 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:46:10,168 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:46:10,169 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:47:10,323 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:47:10,757 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:47:10,771 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:47:10,790 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:47:10,795 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:48:11,116 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:48:11,532 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:48:11,552 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:48:11,566 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:48:11,567 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:49:12,207 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:49:12,548 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:49:12,551 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:49:12,554 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:49:12,556 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:50:12,688 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:50:13,021 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:50:13,024 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:50:13,028 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:50:13,029 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:51:13,164 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:51:13,364 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:51:13,367 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:51:13,369 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:51:13,370 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:52:13,495 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:52:13,698 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 19:52:13,701 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:52:13,704 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:52:13,704 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 19:53:13,837 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 19:53:14,042 - core.trading_bot - INFO - Strategy Supertrend returned signal: sell
+2025-04-18 19:53:14,045 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 19:53:14,048 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 19:53:14,049 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:25:42,392 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:25:52,404 - core.trading_bot - ERROR - Error fetching data: binance GET https://testnet.binance.vision/api/v3/klines?interval=1m&limit=100&symbol=BTCUSDT
+2025-04-18 20:26:52,661 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:26:53,799 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:26:53,811 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:26:53,824 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:26:53,828 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:27:54,400 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:27:55,170 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:27:55,191 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:27:55,208 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:27:55,216 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:28:55,919 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:28:56,955 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:28:56,974 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:28:56,983 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:28:56,988 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:29:57,572 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:29:58,239 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:29:58,256 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:29:58,272 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:29:58,276 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:30:58,913 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:30:59,585 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:30:59,599 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:30:59,617 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: buy
+2025-04-18 20:30:59,623 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:32:00,217 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:32:00,904 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:32:00,920 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:32:00,937 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:32:00,941 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:33:01,497 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:33:02,146 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:33:02,159 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:33:02,171 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: buy
+2025-04-18 20:33:02,175 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:34:02,727 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:34:03,377 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:34:03,393 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:34:03,405 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:34:03,405 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:35:04,003 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:35:04,674 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:35:04,690 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:35:04,703 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:35:04,711 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:36:05,368 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:36:06,053 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:36:06,070 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:36:06,083 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:36:06,092 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:37:06,725 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:37:07,388 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 20:37:07,401 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:37:07,417 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:37:07,422 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 20:38:08,454 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 20:38:09,153 - core.trading_bot - INFO - Strategy Supertrend returned signal: buy
+2025-04-18 20:38:09,170 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 20:38:09,184 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 20:38:09,187 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:27:01,721 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:27:11,729 - core.trading_bot - ERROR - Error fetching data: binance GET https://testnet.binance.vision/api/v3/klines?interval=1m&limit=100&symbol=BTCUSDT
+2025-04-18 22:28:12,074 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:28:12,632 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:28:12,651 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:28:12,687 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: buy
+2025-04-18 22:28:12,701 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:29:13,447 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:29:13,835 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:29:13,857 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:29:13,879 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:29:13,886 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:30:14,640 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:30:14,976 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:30:14,998 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:30:15,021 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:30:15,028 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:31:15,773 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:31:16,769 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:31:16,788 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:31:16,814 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:31:16,821 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:32:17,587 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:32:18,293 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:32:18,313 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:32:18,335 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:32:18,341 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:33:19,053 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:33:19,718 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:33:19,738 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:33:19,760 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:33:19,765 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:39:02,276 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:39:12,286 - core.trading_bot - ERROR - Error fetching data: binance GET https://testnet.binance.vision/api/v3/klines?interval=1m&limit=100&symbol=BTCUSDT
+2025-04-18 22:40:12,542 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:40:13,649 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:40:13,668 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:40:13,692 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:40:13,702 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
+2025-04-18 22:41:14,367 - core.trading_bot - INFO - Fetching data for BTC/USDT on 1m timeframe
+2025-04-18 22:41:14,668 - core.trading_bot - INFO - Strategy Supertrend returned signal: hold
+2025-04-18 22:41:14,682 - core.trading_bot - INFO - Strategy Golden Cross returned signal: hold
+2025-04-18 22:41:14,700 - core.trading_bot - INFO - Strategy Bollinger Bands returned signal: hold
+2025-04-18 22:41:14,705 - core.trading_bot - INFO - Strategy Funding Rate returned signal: hold
